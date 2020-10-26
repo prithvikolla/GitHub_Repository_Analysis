@@ -25,9 +25,9 @@ payload.action,The action performed.
 payload.issue.url,The HTML URL of the issue.
 payload.issue.labels_url,
 payload.issue.comments_url,The URL for posting comments to this particular issue. 
-payload.issue.events_url,
-payload.issue.html_url,
-payload.issue.id,
+payload.issue.events_url,The REST API URL for fetching the event.
+payload.issue.html_url,The HTML URL of the issue comment.
+payload.issue.id,The unique identifier of the event.
 payload.issue.number,
 payload.issue.title,
 payload.issue.user.login,
