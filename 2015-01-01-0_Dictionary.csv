@@ -179,8 +179,8 @@ payload.pull_request.head.repo.owner.site_admin,
 public,
 created_at,The timestamp indicating when the event occurred.
 ,
-org.id,
-org.login,
+org.id,Unique id for Organization
+org.login,The username of Organization
 org.gravatar_id,
 org.url,
 org.avatar_url,
