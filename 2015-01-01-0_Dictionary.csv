@@ -180,7 +180,7 @@ public,
 created_at,The timestamp indicating when the event occurred.
 ,
 org.id,Unique id for Organization
-org.login,The username of Organization
+org.login,The name of Organization
 org.gravatar_id,
 org.url,
-org.avatar_url,
+org.avatar_url,The url of Organization Profile Image
