@@ -1,6 +1,6 @@
 # GitHub_Repository_Analysis
 
-Intial Problem Statements:
+Initial Problem Statements:
 
 1.	How many unique contributors for each group? What's the distribution of the number of contributors among the all projects here? for example, what is the mean, and standard deviation? Is it a normal distribution?
 2.	Is there any patterns for the contributors activities, such as top 10 contributors contribute 90% development activities?
